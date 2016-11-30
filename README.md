@@ -4,7 +4,7 @@
 ##Révision sur les formulaires
 ###Réaliser via un index.php, un document Html contenant un formulaire permettant de soumettre les infos suivantes :
     * Le prénom à l'aide d'un champ de saisie.
-    * Le genre => homme / femme (animaux interdit) à l'aide de bouttons radio.
+    * Le genre => homme / femme (animaux interdits) à l'aide de bouttons radio.
     * Le pays
     * l'nscription à la newsletter à l'aide d'une checkbox.
     * Un boutton Valider pour soumettre le formulaire.(Voir image 1)
@@ -20,7 +20,7 @@
      
      * gérer les erreurs dans le cas de champ vide pour le nom et
        de la présence de nombre dans le nom (Voir image 3)
-     * gérer les erreur de selection vide pour le genre.(Voir image 4) 
+     * gérer l'erreur de selection vide pour le genre.(Voir image 4) 
 
 ##Les sessions
 ###Réaliser une troisième page pour afficher via les variables de session le texte d'accueil suivant :
