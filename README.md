@@ -18,7 +18,8 @@
      * Vous "voulez/ ne voulez pas" recevoir la newsletter.
      * Un boutton avec un lien pour se rendre sur la page 3. (Voir image 2)
      
-     * gérer les erreurs dans le cas de champ vide pour le nom et de la présence de nombre dans le nom (Voir image 3)
+     * gérer les erreurs dans le cas de champ vide pour le nom et
+       de la présence de nombre dans le nom (Voir image 3)
      * gérer les erreur de selection vide pour le genre.(Voir image 4) 
 
 ##Les sessions
