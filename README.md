@@ -2,7 +2,7 @@
 
 
 ##Révision sur les formulaires
-###Réaliser via un index.php, un document Html contenant formulaire permettant de soumettre les infos suivantes :
+###Réaliser via un index.php, un document Html contenant un formulaire permettant de soumettre les infos suivantes :
     * Le prénom à l'aide d'un champ de saisie.
     * Le genre => homme / femme (animaux interdit) à l'aide de bouttons radio.
     * Le pays
@@ -10,7 +10,7 @@
     * Un boutton Valider pour soumettre le formulaire.(Voir image 1)
  
  
-###Réaliser une deuxième page permettant d'afficher les infos récuérées via la méthode POST :
+###Réaliser une deuxième page permettant d'afficher les infos récupérées via la méthode POST :
      * Afficher "Vos données sont :".
      * Vous vous appelez "nom" ( en "nombre de lettre" lettres).
      * Vous êtes "un homme / une femme".
