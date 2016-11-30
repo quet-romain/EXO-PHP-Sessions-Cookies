@@ -8,7 +8,7 @@
     * Un boutton Valider pour soumettre le formulaire.(Voir image 1)
  
  
- ###Réaliser une deuxième page permettant d'afficher les infos récuérées via la méthode POST :
+###Réaliser une deuxième page permettant d'afficher les infos récuérées via la méthode POST :
      * Afficher "Vos données sont :".
      * Vous vous appelez "nom" ( en "nombre de lettre" lettres).
      * Vous êtes "un homme / une femme".
